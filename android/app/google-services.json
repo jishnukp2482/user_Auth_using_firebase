@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885452590539",
+    "project_id": "my-project-signupauth",
+    "storage_bucket": "my-project-signupauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885452590539:android:b8bf9cfe62c06e17b0fa4e",
+        "android_client_info": {
+          "package_name": "com.example.signupandloginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885452590539-gq7hsoo1tvlqpu9chnq701v4jih357vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQQSq6boQRinrpHfYMpu-QBa1c0b0CxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885452590539-gq7hsoo1tvlqpu9chnq701v4jih357vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
